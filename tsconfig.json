@@ -1,0 +1,28 @@
+{
+  "compilerOptions": {
+    "module": "CommonJS",
+    "lib": [
+      "dom",
+      "ESNext"
+    ],
+    "removeComments": true,
+    "emitDecoratorMetadata": true,
+    "allowJs": true,
+    "checkJs": false,
+    "experimentalDecorators": true,
+    "allowSyntheticDefaultImports": true,
+    "target": "ESNext",
+    "sourceMap": true,
+    "outDir": "dist",
+    "baseUrl": "src",
+    "incremental": true,
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "moduleResolution": "Node",
+    "types": [ "node" ],
+    "typeRoots": [ "node_modules/@types" ]
+  },
+  "include": [
+    "./src/**/*"
+  ]
+}
