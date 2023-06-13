@@ -17,7 +17,7 @@ connect()
   })
   .catch((err) => {
     console.error(err || new Error('CANT_MONGO_CONNECT'));
-    process.exit(-1);
+    process.exit(1);
   });
 
 async function createCustomers() {
