@@ -21,7 +21,7 @@
     "execution-time-decorators": "^0.0.1",
     "mongoose": "^7.2.4",
     "p-queue": "^6.6.2",
-    "reflect-metadata": "^0.1.13",
+    "reflect-metadata": "^0.2.0",
     "rimraf": "^5.0.1",
     "yargs": "^17.7.2"
   },
