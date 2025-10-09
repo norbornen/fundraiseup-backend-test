@@ -22,7 +22,7 @@
     "mongoose": "^7.2.4",
     "p-queue": "^6.6.2",
     "reflect-metadata": "^0.1.13",
-    "rimraf": "^5.0.1",
+    "rimraf": "^5.0.10",
     "yargs": "^17.7.2"
   },
   "devDependencies": {
